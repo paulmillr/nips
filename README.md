@@ -51,6 +51,8 @@ NIPs stand for **Nostr Implementation Possibilities**. They exist to document wh
 | 5             | Event Deletion                   | [9](09.md)  |
 | 7             | Reaction                         | [25](25.md) |
 | 8             | Badge Award                      | [58](58.md) |
+| 10            | Follow Contact                   | [2](02.md)  |
+| 11            | Unfollow Contact                 | [2](02.md)  |
 | 40            | Channel Creation                 | [28](28.md) |
 | 41            | Channel Metadata                 | [28](28.md) |
 | 42            | Channel Message                  | [28](28.md) |
